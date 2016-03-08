@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[theguides]]></title>
         <description><![CDATA[theguides]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theguides/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 06:36:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 06:46:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theguides/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Quadra Kill]]></title>
-            <description><![CDATA[<article><h1>Quadra Kill</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a831890-30e3-4386-ad5a-da056ee6e687.gif"></article>]]></description>
-            <link>undefinedquadra-kill/index.html</link>
+            <description><![CDATA[<article><h1>Quadra Kill</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b90d0000920e5e5ce58e2c610adb451e6dfb09c.gif"></article>]]></description>
+            <link>https://thegrid.ai/theguides/quadra-kill/index.html</link>
             <guid isPermaLink="false">c227391f-9002-4ed5-8779-0a0ea42360af</guid>
-            <pubDate>Tue, 08 Mar 2016 06:34:52 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2016 06:44:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
