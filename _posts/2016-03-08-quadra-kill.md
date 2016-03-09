@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T06:44:58.295Z'
-dateModified: '2016-03-08T06:43:59.489Z'
+datePublished: '2016-03-09T02:42:19.989Z'
+dateModified: '2016-03-08T06:45:06.268Z'
 title: Quadra Kill
 author: []
 sourcePath: _posts/2016-03-08-quadra-kill.md
